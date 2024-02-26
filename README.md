@@ -45,6 +45,6 @@ The script performs the following tasks:
 Unit tests are provided to verify the correctness of the scraped data. Run the `test_scrape_data()` function after scraping to ensure data integrity.
 
 ## Note
-This CAPTCHA solver is designed for educational purposes and should not be used for any illegal or unethical activities. Respect the terms of service of websites and APIs when using CAPTCHA solving techniques.
+This CAPTCHA solver is designed for learning purposes and should not be used for any illegal or unethical activities. Respect the terms of service of websites and APIs when using CAPTCHA solving techniques.
 
 
