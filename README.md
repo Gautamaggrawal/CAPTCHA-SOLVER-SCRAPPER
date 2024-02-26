@@ -11,6 +11,10 @@ The CAPTCHA solver script performs the following tasks:
 4. Provides a method to integrate with Selenium for solving CAPTCHAs in web automation tasks.
 
 
+https://github.com/Gautamaggrawal/EPF-SCRAPPER-WITH-CAPCHA/assets/22342470/7da17ec8-0b72-4d32-8e4a-62654e59b407
+
+
+
 ## Requirements
 - Python 3.11 or higher
 - Chrome driver
